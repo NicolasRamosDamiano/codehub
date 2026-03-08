@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "nombre": "MDN Web Docs",
+    "descripcion": "Documentación oficial HTML, CSS y JavaScript",
+    "categoria": "documentacion",
+    "link": "https://developer.mozilla.org"
+  },
+  {
+    "id": 2,
+    "nombre": "W3Schools",
+    "descripcion": "Tutoriales básicos y ejemplos interactivos",
+    "categoria": "aprendizaje",
+    "link": "https://www.w3schools.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Stack Overflow",
+    "descripcion": "Preguntas y respuestas para programadores",
+    "categoria": "comunidad",
+    "link": "https://stackoverflow.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Font Awesome",
+    "descripcion": "Iconos gratuitos para proyectos web",
+    "categoria": "recursos_ui",
+    "link": "https://fontawesome.com"
+  },
+  {
+    "id": 5,
+    "nombre": "Unsplash",
+    "descripcion": "Imágenes gratuitas de alta calidad",
+    "categoria": "imagenes",
+    "link": "https://unsplash.com"
+  },
+  {
+    "id": 6,
+    "nombre": "Pexels",
+    "descripcion": "Fotos y videos gratuitos",
+    "categoria": "imagenes",
+    "link": "https://www.pexels.com"
+  },
+  {
+    "id": 7,
+    "nombre": "Google Fonts",
+    "descripcion": "Fuentes gratuitas para la web",
+    "categoria": "recursos_ui",
+    "link": "https://fonts.google.com"
+  },
+  {
+    "id": 8,
+    "nombre": "Can I Use",
+    "descripcion": "Compatibilidad de CSS y JavaScript en navegadores",
+    "categoria": "herramientas",
+    "link": "https://caniuse.com"
+  },
+  {
+    "id": 9,
+    "nombre": "CSS Tricks",
+    "descripcion": "Guías y trucos avanzados de CSS",
+    "categoria": "documentacion",
+    "link": "https://css-tricks.com"
+  },
+  {
+    "id": 10,
+    "nombre": "FreeCodeCamp",
+    "descripcion": "Cursos gratuitos de programación",
+    "categoria": "aprendizaje",
+    "link": "https://www.freecodecamp.org"
+  },
+  {
+    "id": 11,
+    "nombre": "Frontend Mentor",
+    "descripcion": "Desafíos prácticos para mejorar frontend",
+    "categoria": "aprendizaje",
+    "link": "https://www.frontendmentor.io"
+  },
+  {
+    "id": 12,
+    "nombre": "CodePen",
+    "descripcion": "Probar y compartir código frontend online",
+    "categoria": "herramientas",
+    "link": "https://codepen.io"
+  },
+  {
+    "id": 13,
+    "nombre": "GitHub",
+    "descripcion": "Control de versiones y portafolio de proyectos",
+    "categoria": "productividad",
+    "link": "https://github.com"
+  },
+  {
+    "id": 14,
+    "nombre": "Netlify",
+    "descripcion": "Deploy gratuito para sitios estáticos",
+    "categoria": "deploy",
+    "link": "https://www.netlify.com"
+  },
+  {
+    "id": 15,
+    "nombre": "Vercel",
+    "descripcion": "Deploy fácil para proyectos frontend y fullstack",
+    "categoria": "deploy",
+    "link": "https://vercel.com"
+  },
+  {
+    "id": 16,
+    "nombre": "Postman",
+    "descripcion": "Probar APIs de manera sencilla",
+    "categoria": "apis",
+    "link": "https://www.postman.com"
+  },
+  {
+    "id": 17,
+    "nombre": "JSON Formatter",
+    "descripcion": "Formatear y validar archivos JSON",
+    "categoria": "herramientas",
+    "link": "https://jsonformatter.org"
+  },
+  {
+    "id": 18,
+    "nombre": "Figma",
+    "descripcion": "Diseño UI/UX con versión gratuita",
+    "categoria": "recursos_ui",
+    "link": "https://www.figma.com"
+  },
+  {
+    "id": 19,
+    "nombre": "Remove.bg",
+    "descripcion": "Eliminar fondo de imágenes automáticamente",
+    "categoria": "imagenes",
+    "link": "https://www.remove.bg"
+  },
+  {
+    "id": 20,
+    "nombre": "Coolors",
+    "descripcion": "Generador de paletas de colores",
+    "categoria": "recursos_ui",
+    "link": "https://coolors.co"
+  },
+  {
+    "id": 21,
+    "nombre": "Roadmap.sh",
+    "descripcion": "Mapas de ruta visuales para cada rol de desarrollo",
+    "categoria": "documentacion",
+    "link": "https://roadmap.sh"
+  },
+  {
+    "id": 22,
+    "nombre": "DevDocs",
+    "descripcion": "Todas las documentaciones en una sola interfaz",
+    "categoria": "documentacion",
+    "link": "https://devdocs.io"
+  },
+  {
+    "id": 23,
+    "nombre": "The Odin Project",
+    "descripcion": "Ruta de aprendizaje full-stack completamente gratuita",
+    "categoria": "aprendizaje",
+    "link": "https://www.theodinproject.com"
+  },
+  {
+    "id": 24,
+    "nombre": "LeetCode",
+    "descripcion": "Desafíos de algoritmos para preparar entrevistas técnicas",
+    "categoria": "aprendizaje",
+    "link": "https://leetcode.com"
+  },
+  {
+    "id": 25,
+    "nombre": "Exercism",
+    "descripcion": "Prácticas de programación intensivas con mentoría",
+    "categoria": "aprendizaje",
+    "link": "https://exercism.org"
+  },
+  {
+    "id": 26,
+    "nombre": "Codewars",
+    "descripcion": "Mejora tus habilidades resolviendo katas de código",
+    "categoria": "aprendizaje",
+    "link": "https://www.codewars.com"
+  },
+  {
+    "id": 27,
+    "nombre": "Dev.to",
+    "descripcion": "Comunidad de desarrolladores para compartir artículos",
+    "categoria": "comunidad",
+    "link": "https://dev.to"
+  },
+  {
+    "id": 28,
+    "nombre": "Hashnode",
+    "descripcion": "Plataforma de blogging técnico con comunidad activa",
+    "categoria": "comunidad",
+    "link": "https://hashnode.com"
+  },
+  {
+    "id": 29,
+    "nombre": "shadcn/ui",
+    "descripcion": "Componentes de UI accesibles y reutilizables para React",
+    "categoria": "recursos_ui",
+    "link": "https://ui.shadcn.com"
+  },
+  {
+    "id": 30,
+    "nombre": "Uiverse",
+    "descripcion": "Elementos de UI hechos solo con CSS y HTML",
+    "categoria": "recursos_ui",
+    "link": "https://uiverse.io"
+  },
+  {
+    "id": 31,
+    "nombre": "Animista",
+    "descripcion": "Generador visual de animaciones CSS listas para copiar",
+    "categoria": "recursos_ui",
+    "link": "https://animista.net"
+  },
+  {
+    "id": 32,
+    "nombre": "SVG Repo",
+    "descripcion": "Más de 500k SVGs gratuitos y editables",
+    "categoria": "imagenes",
+    "link": "https://www.svgrepo.com"
+  },
+  {
+    "id": 33,
+    "nombre": "Lucide Icons",
+    "descripcion": "Set de iconos SVG open source consistentes y modernos",
+    "categoria": "imagenes",
+    "link": "https://lucide.dev"
+  },
+  {
+    "id": 34,
+    "nombre": "Storyset",
+    "descripcion": "Ilustraciones vectoriales animadas y personalizables gratis",
+    "categoria": "imagenes",
+    "link": "https://storyset.com"
+  },
+  {
+    "id": 35,
+    "nombre": "RapidAPI",
+    "descripcion": "Marketplace para descubrir, probar y conectar APIs",
+    "categoria": "apis",
+    "link": "https://rapidapi.com"
+  },
+  {
+    "id": 36,
+    "nombre": "JSONPlaceholder",
+    "descripcion": "API REST falsa y gratuita para pruebas y prototipos",
+    "categoria": "apis",
+    "link": "https://jsonplaceholder.typicode.com"
+  },
+  {
+    "id": 37,
+    "nombre": "Swagger UI",
+    "descripcion": "Estándar para documentar y probar APIs REST",
+    "categoria": "apis",
+    "link": "https://swagger.io"
+  },
+  {
+    "id": 38,
+    "nombre": "Railway",
+    "descripcion": "Deploy de apps y bases de datos en minutos",
+    "categoria": "deploy",
+    "link": "https://railway.app"
+  },
+  {
+    "id": 39,
+    "nombre": "Render",
+    "descripcion": "Cloud unificado para apps, APIs y bases de datos",
+    "categoria": "deploy",
+    "link": "https://render.com"
+  },
+  {
+    "id": 40,
+    "nombre": "Notion",
+    "descripcion": "Espacio de trabajo todo-en-uno para notas y proyectos",
+    "categoria": "productividad",
+    "link": "https://notion.so"
+  },
+  {
+    "id": 41,
+    "nombre": "Linear",
+    "descripcion": "Gestión de issues y proyectos ágiles para equipos",
+    "categoria": "productividad",
+    "link": "https://linear.app"
+  },
+  {
+    "id": 42,
+    "nombre": "Regex101",
+    "descripcion": "Editor y debugger de expresiones regulares en tiempo real",
+    "categoria": "herramientas",
+    "link": "https://regex101.com"
+  },
+  {
+    "id": 43,
+    "nombre": "Transform Tools",
+    "descripcion": "Conversión entre formatos: JSON, TypeScript, GraphQL y más",
+    "categoria": "herramientas",
+    "link": "https://transform.tools"
+  },
+  {
+    "id": 44,
+    "nombre": "Bundlephobia",
+    "descripcion": "Analiza el tamaño de paquetes npm antes de instalarlos",
+    "categoria": "herramientas",
+    "link": "https://bundlephobia.com"
+  },
+  {
+    "id": 45,
+    "nombre": "Squoosh",
+    "descripcion": "Herramienta de Google para comprimir imágenes sin pérdida",
+    "categoria": "herramientas",
+    "link": "https://squoosh.app"
+  },
+  {
+    "id": 46,
+    "nombre": "Radix UI",
+    "descripcion": "Primitivos de UI sin estilos, accesibles y personalizables",
+    "categoria": "recursos_ui",
+    "link": "https://www.radix-ui.com"
+  },
+  {
+    "id": 47,
+    "nombre": "Headless UI",
+    "descripcion": "Componentes sin estilos totalmente accesibles para React y Vue",
+    "categoria": "recursos_ui",
+    "link": "https://headlessui.com"
+  },
+  {
+    "id": 48,
+    "nombre": "Flowbite",
+    "descripcion": "Biblioteca de componentes UI construida sobre Tailwind CSS",
+    "categoria": "recursos_ui",
+    "link": "https://flowbite.com"
+  },
+  {
+    "id": 49,
+    "nombre": "DaisyUI",
+    "descripcion": "Plugin de componentes para Tailwind CSS con temas listos",
+    "categoria": "recursos_ui",
+    "link": "https://daisyui.com"
+  },
+  {
+    "id": 50,
+    "nombre": "CSS Gradient",
+    "descripcion": "Generador visual de gradientes CSS con código listo",
+    "categoria": "recursos_ui",
+    "link": "https://cssgradient.io"
+  },
+  {
+    "id": 51,
+    "nombre": "Glassmorphism CSS",
+    "descripcion": "Generador de efectos glassmorphism con código CSS al instante",
+    "categoria": "recursos_ui",
+    "link": "https://css.glass"
+  },
+  {
+    "id": 52,
+    "nombre": "Neumorphism.io",
+    "descripcion": "Generador de efectos neumorfismo con CSS personalizable",
+    "categoria": "recursos_ui",
+    "link": "https://neumorphism.io"
+  },
+  {
+    "id": 53,
+    "nombre": "Box Shadow Generator",
+    "descripcion": "Crea y previsualiza box-shadows complejos en CSS",
+    "categoria": "recursos_ui",
+    "link": "https://box-shadow.dev"
+  },
+  {
+    "id": 54,
+    "nombre": "Haikei",
+    "descripcion": "Generador de fondos SVG orgánicos: olas, blobs, gradientes",
+    "categoria": "recursos_ui",
+    "link": "https://haikei.app"
+  },
+  {
+    "id": 55,
+    "nombre": "Open UI",
+    "descripcion": "Referencia de componentes UI estándar entre frameworks",
+    "categoria": "recursos_ui",
+    "link": "https://open-ui.org"
+  },
+  {
+    "id": 56,
+    "nombre": "Iconify",
+    "descripcion": "Framework de iconos unificado con más de 200k iconos",
+    "categoria": "recursos_ui",
+    "link": "https://iconify.design"
+  },
+  {
+    "id": 57,
+    "nombre": "Whirl CSS",
+    "descripcion": "Colección de spinners y loaders hechos solo con CSS",
+    "categoria": "recursos_ui",
+    "link": "https://whirl.netlify.app"
+  },
+  {
+    "id": 58,
+    "nombre": "Contrast Checker",
+    "descripcion": "Verifica el contraste de colores según estándares WCAG",
+    "categoria": "recursos_ui",
+    "link": "https://coolors.co/contrast-checker"
+  },
+  {
+    "id": 59,
+    "nombre": "Clippy CSS",
+    "descripcion": "Generador visual de clip-path para formas CSS personalizadas",
+    "categoria": "recursos_ui",
+    "link": "https://bennettfeely.com/clippy"
+  },
+  {
+    "id": 60,
+    "nombre": "Cubic Bezier",
+    "descripcion": "Editor visual de curvas de animación CSS cubic-bezier",
+    "categoria": "recursos_ui",
+    "link": "https://cubic-bezier.com"
+  },
+  {
+    "id": 61,
+    "nombre": "Responsively App",
+    "descripcion": "Previsualiza tu web en múltiples pantallas simultáneamente",
+    "categoria": "herramientas",
+    "link": "https://responsively.app"
+  },
+  {
+    "id": 62,
+    "nombre": "Lighthouse",
+    "descripcion": "Auditoría de rendimiento, SEO y accesibilidad de Google",
+    "categoria": "herramientas",
+    "link": "https://developer.chrome.com/docs/lighthouse"
+  },
+  {
+    "id": 63,
+    "nombre": "PageSpeed Insights",
+    "descripcion": "Mide y optimiza la velocidad de carga de tu sitio web",
+    "categoria": "herramientas",
+    "link": "https://pagespeed.web.dev"
+  },
+  {
+    "id": 64,
+    "nombre": "Gitignore.io",
+    "descripcion": "Genera archivos .gitignore por lenguaje o entorno al instante",
+    "categoria": "herramientas",
+    "link": "https://www.toptal.com/developers/gitignore"
+  },
+  {
+    "id": 65,
+    "nombre": "Carbon",
+    "descripcion": "Crea capturas de código con estilos y temas personalizados",
+    "categoria": "herramientas",
+    "link": "https://carbon.now.sh"
+  },
+  {
+    "id": 66,
+    "nombre": "Ray.so",
+    "descripcion": "Genera imágenes de código estéticas para compartir",
+    "categoria": "herramientas",
+    "link": "https://ray.so"
+  },
+  {
+    "id": 67,
+    "nombre": "Wappalyzer",
+    "descripcion": "Detecta las tecnologías usadas en cualquier sitio web",
+    "categoria": "herramientas",
+    "link": "https://www.wappalyzer.com"
+  },
+  {
+    "id": 68,
+    "nombre": "Prettier Playground",
+    "descripcion": "Formatea código online con Prettier sin instalar nada",
+    "categoria": "herramientas",
+    "link": "https://prettier.io/playground"
+  },
+  {
+    "id": 69,
+    "nombre": "Meta Tags",
+    "descripcion": "Genera y previsualiza meta tags para SEO y redes sociales",
+    "categoria": "herramientas",
+    "link": "https://metatags.io"
+  },
+  {
+    "id": 70,
+    "nombre": "Codebeautify",
+    "descripcion": "Suite de herramientas para formatear, validar y convertir código",
+    "categoria": "herramientas",
+    "link": "https://codebeautify.org"
+  },
+  {
+    "id": 71,
+    "nombre": "OverAPI",
+    "descripcion": "Cheatsheets interactivos de los lenguajes más populares",
+    "categoria": "herramientas",
+    "link": "https://overapi.com"
+  },
+  {
+    "id": 72,
+    "nombre": "Keyframes.app",
+    "descripcion": "Editor visual de keyframes y animaciones CSS en el navegador",
+    "categoria": "herramientas",
+    "link": "https://keyframes.app"
+  }
+]
