@@ -1,3 +1,4 @@
+<BrowserRouter basename="/codehub"></BrowserRouter>
 import { useState, useEffect } from 'react';
 import './App.css';
 import { Titulo } from './components/Titulo';
