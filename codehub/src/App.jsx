@@ -1,26 +1,22 @@
-import { useState, useEffect } from 'react';
+import { BrowserRouter } from 'react-router-dom';
 import './App.css';
 import { Titulo } from './components/Titulo';
-import { Filtrador } from './components/filtrador';
-
+import { Filtrador } from './components/Filtrador';
+import { Routes, Route } from 'react-router-dom';
+import { Trabajo } from './components/trabajo';
 
 function App() {
-  const [paginas, setPaginas] = useState([]);
-
-  useEffect(() => {
-    fetch('/paginas.json')
-      .then(res => res.json())
-      .then(data => setPaginas(data))
-      .catch(err => console.error('Error al cargar JSON:', err));
-  }, []);
-
   return (
-    <div>
-      <Titulo />
-
-      <Filtrador />
-      
-    </div>
-  );}
+    <BrowserRouter basename="/codehub">
+      <div>
+        <Titulo />
+        <Routes>
+          <Route path="/" element={<Filtrador />} />
+          <Route path="/trabajo" element={<Trabajo />} />
+        </Routes>
+      </div>
+    </BrowserRouter>
+  );
+}
 
 export default App;
