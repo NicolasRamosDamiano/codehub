@@ -101,3 +101,19 @@ button.activo{
 .tarjeta a:hover{
   background:#b80000;
 }
+
+.btn-empresas {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #800303;
+  color: rgb(5, 0, 0);
+  border-radius: 6px;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-empresas:hover {
+  background-color: #ff0202;
+  color: black;
+}

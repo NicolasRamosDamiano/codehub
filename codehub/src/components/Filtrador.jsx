@@ -1,6 +1,6 @@
 import './filtrador.css';
-import { Boton } from './boton';
 import { useState, useEffect } from 'react';
+import { Link } from "react-router-dom";
 
 export function Filtrador() {
   const [paginas, setPaginas] = useState([]);
@@ -41,6 +41,9 @@ export function Filtrador() {
           <button onClick={() => setCategoria('productividad')}>Productividad</button>
           <button onClick={() => setCategoria('deploy')}>Deploy</button>
           <button onClick={() => setCategoria('apis')}>APIs</button>
+<Link to="/trabajo" className="btn-empresas">
+  Empresas
+</Link>
         </div>
 
         <div className="contenedor">
@@ -65,9 +68,6 @@ export function Filtrador() {
             </div>
           ))}
         </div>
-
-        <Boton />
-
       </>
     )}
   </div>
