@@ -1,0 +1,26 @@
+
+.contenedorEmpresas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 2fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.cardE {
+  background: #1f2937;
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  transition: 0.2s;
+}
+
+.cardE:hover {
+  transform: translateY(-5px);
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #38bdf8;
+  text-decoration: none;
+}

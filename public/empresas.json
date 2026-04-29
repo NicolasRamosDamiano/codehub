@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Globant",
+    "link": "https://www.globant.com",
+    "especialidad": "Desarrollo de software"
+  },
+  {
+    "id": 2,
+    "nombre": "Mercado Libre",
+    "link": "https://www.mercadolibre.com",
+    "especialidad": "E-commerce y fintech"
+  },
+  {
+    "id": 3,
+    "nombre": "PedidosYa",
+    "link": "https://www.pedidosya.com",
+    "especialidad": "Delivery y logística"
+  }
+]
